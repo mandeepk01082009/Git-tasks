@@ -6,6 +6,7 @@
 	<title>Home</title>
 </head>
 <body>
-
+This is home page.
+<h1>This is new feature.</h1>
 </body>
 </html>
